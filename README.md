@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "500px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Artificial_Neural_Network_with_Chip.jpg" alt="cover" />
+<img width="100%" height = "400px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Artificial_Neural_Network_with_Chip.jpg" alt="cover" />
 </div>
 
 
