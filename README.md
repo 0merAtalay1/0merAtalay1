@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "500px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Artificial_Neural_Network_with_Chip.jpg" alt="cover" />
+</div>
+
 
 <h1 align='center'>  Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1> 
 
