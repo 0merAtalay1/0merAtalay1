@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "400px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Artificial_Neural_Network_with_Chip.jpg" alt="cover" />
+<img width="100%" height = "350px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Artificial_Neural_Network_with_Chip.jpg" alt="cover" />
 </div>
 
 
@@ -20,7 +20,7 @@ I love improving myself and learning new things.
     
 <img width ='32px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
     
-<img width ='32px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> 
+<img width ='32px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/0/08/AutoCad_logo.svg'> 
     
 <img width ='32px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> 
     
